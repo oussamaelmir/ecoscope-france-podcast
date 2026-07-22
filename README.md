@@ -1,1 +1,1 @@
-# ecoscope-france-podcast
+# ÉcoScope France — podcast feed
