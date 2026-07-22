@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ÉcoScope France : La Quotidienne Économique</title>
+    <link>https://oussamaelmir.github.io/ecoscope-france-podcast</link>
+    <language>fr</language>
+    <description>Chaque matin, ÉcoScope France résume en quelques minutes les principaux titres de l'actualité économique française : les faits, les chiffres et ce qu'ils changent concrètement. Une information factuelle et impartiale, présentée par Romain.</description>
+    <itunes:author>ÉcoScope France</itunes:author>
+    <itunes:summary>Chaque matin, ÉcoScope France résume en quelques minutes les principaux titres de l'actualité économique française : les faits, les chiffres et ce qu'ils changent concrètement. Une information factuelle et impartiale, présentée par Romain.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>ÉcoScope France</itunes:name>
+      <itunes:email>oussama1305@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://oussamaelmir.github.io/ecoscope-france-podcast/cover.png"/>
+    <image>
+      <url>https://oussamaelmir.github.io/ecoscope-france-podcast/cover.png</url>
+      <title>ÉcoScope France : La Quotidienne Économique</title>
+      <link>https://oussamaelmir.github.io/ecoscope-france-podcast</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Business News"/>
+    </itunes:category>
+    <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 23 Jul 2026 01:35:17 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 22/07/2026 : Déficit public en dérapage, Dassault en plein essor, Nestlé cède ses eaux françaises</title>
+      <description>Au programme ce matin : le gouvernement reconnaît que l'objectif de déficit à cinq pour cent du produit intérieur brut est menacé, et évoque des mesures d'économies dans le secteur de la santé. Ensuite, Dassault Aviation affiche un chiffre d'affaires en forte hausse grâce à ses livraisons de Rafale. Et enfin, Nestlé envisagerait de céder la moitié de ses marques d'eaux françaises à un fonds américain.</description>
+      <itunes:summary>Au programme ce matin : le gouvernement reconnaît que l'objectif de déficit à cinq pour cent du produit intérieur brut est menacé, et évoque des mesures d'économies dans le secteur de la santé. Ensuite, Dassault Aviation affiche un chiffre d'affaires en forte hausse grâce à ses livraisons de Rafale. Et enfin, Nestlé envisagerait de céder la moitié de ses marques d'eaux françaises à un fonds américain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-22.mp3" length="5428049" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
