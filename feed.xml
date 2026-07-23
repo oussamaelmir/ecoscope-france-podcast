@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 23 Jul 2026 02:05:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:33:43 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 23/07/2026 : Consommation en berne chez Fnac Darty, retour controversé de deux insecticides, et point d'étape sur les finances locales</title>
-      <description>Au programme aujourd'hui : les résultats de Fnac Darty révèlent un contraste frappant entre une France à la traîne et une Europe en croissance. Nous examinerons aussi l'adoption d'une loi d'urgence agricole qui autorise, par dérogation, deux insecticides jusqu'ici interdits. Et enfin, trois parlementaires ont remis leurs premières conclusions sur les finances des collectivités locales, à quelques semaines de la présentation du budget 2027.</description>
-      <itunes:summary>Au programme aujourd'hui : les résultats de Fnac Darty révèlent un contraste frappant entre une France à la traîne et une Europe en croissance. Nous examinerons aussi l'adoption d'une loi d'urgence agricole qui autorise, par dérogation, deux insecticides jusqu'ici interdits. Et enfin, trois parlementaires ont remis leurs premières conclusions sur les finances des collectivités locales, à quelques semaines de la présentation du budget 2027.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-23.mp3" length="5191970" type="audio/mpeg"/>
+      <title>ÉcoScope France — 23/07/2026 : Franchises médicales, carburants et légumes en hausse, Alstom sous pression</title>
+      <description>Au programme ce matin : le Premier ministre Sébastien Lecornu ouvre la porte à une réforme des franchises médicales, et les réactions sont déjà vives. Côté pouvoir d'achat, les prix à la pompe et les prix des légumes ont fortement progressé ces dernières semaines. Et enfin, Alstom confirme ses objectifs financiers, mais ses commandes en Europe se sont effondrées au premier trimestre.</description>
+      <itunes:summary>Au programme ce matin : le Premier ministre Sébastien Lecornu ouvre la porte à une réforme des franchises médicales, et les réactions sont déjà vives. Côté pouvoir d'achat, les prix à la pompe et les prix des légumes ont fortement progressé ces dernières semaines. Et enfin, Alstom confirme ses objectifs financiers, mais ses commandes en Europe se sont effondrées au premier trimestre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-23.mp3" length="5089896" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-23</guid>
       <pubDate>Thu, 23 Jul 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>324</itunes:duration>
+      <itunes:duration>318</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
