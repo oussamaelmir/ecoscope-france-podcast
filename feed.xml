@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 23 Jul 2026 09:10:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:34:19 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 24/07/2026 : Droits de douane américains, franchises médicales et remboursements fiscaux</title>
+      <description>Au programme ce matin : Washington annonce une nouvelle vague de droits de douane visant soixante pays, dont les pays européens, avec des conséquences potentielles pour les exportateurs français. Le gouvernement envisage de doubler le plafond annuel des franchises médicales, une mesure qui fait débat. Et enfin, bonne nouvelle pour des millions de ménages : le fisc procède aujourd'hui à des remboursements d'impôt sur le revenu pour près de treize millions de foyers.</description>
+      <itunes:summary>Au programme ce matin : Washington annonce une nouvelle vague de droits de douane visant soixante pays, dont les pays européens, avec des conséquences potentielles pour les exportateurs français. Le gouvernement envisage de doubler le plafond annuel des franchises médicales, une mesure qui fait débat. Et enfin, bonne nouvelle pour des millions de ménages : le fisc procède aujourd'hui à des remboursements d'impôt sur le revenu pour près de treize millions de foyers.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-24.mp3" length="5439315" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 23/07/2026 : Taux obligataires à un record, réforme de l'Assurance maladie et résultats de TotalEnergies</title>
       <description>Au programme ce matin : les taux auxquels la France emprunte sur les marchés viennent d'atteindre un niveau record, ce qui pose des questions sur le coût de la dette. Nous verrons ensuite comment le gouvernement entend réduire le déficit de l'Assurance maladie, qui frôle seize milliards d'euros. Et enfin, TotalEnergies publie des bénéfices en forte hausse, dans un contexte de prix élevés à la pompe et de plainte déposée par des stations indépendantes.</description>
