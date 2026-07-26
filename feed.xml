@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 25 Jul 2026 08:41:53 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 06:34:01 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 26/07/2026 : Incendies dans le Sud-Ouest, fin du démarchage téléphonique sans consentement et réforme du compte personnel de formation</title>
+      <description>Au programme ce matin : les incendies qui ravagent le Sud-Ouest de la France bouleversent l'économie touristique et les transports en pleine saison estivale. Ensuite, un décret publié ce matin au Journal officiel met fin au démarchage téléphonique sans consentement préalable des consommateurs. Et enfin, le compte personnel de formation pourrait connaître une nouvelle réforme dès l'année prochaine.</description>
+      <itunes:summary>Au programme ce matin : les incendies qui ravagent le Sud-Ouest de la France bouleversent l'économie touristique et les transports en pleine saison estivale. Ensuite, un décret publié ce matin au Journal officiel met fin au démarchage téléphonique sans consentement préalable des consommateurs. Et enfin, le compte personnel de formation pourrait connaître une nouvelle réforme dès l'année prochaine.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-26.mp3" length="5715678" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>357</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 25/07/2026 : Remboursements Sécu réduits, salaires réels en berne et course aux data centers</title>
       <description>Ce matin, trois sujets retiennent notre attention. D'abord, des projets de décrets qui prévoient de réduire encore les remboursements de certains médicaments, de soins dentaires et de dispositifs médicaux. Ensuite, un bilan de l'Organisation de coopération et de développement économiques, l'OCDE, sur les salaires réels en Europe depuis 2021, et la place de la France dans ce tableau. Enfin, les investissements colossaux en jeu pour que la France reste dans la course mondiale aux infrastructures d'intelligence artificielle.</description>
