@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 10:04:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:34:04 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 28/07/2026 : Incendies en Gironde, Renault au tribunal, hydrogène en Moselle</title>
+      <description>Ce matin, nous revenons sur le choc économique que font peser les incendies de Gironde sur des milliers d'entreprises et sur toute une région. Nous parlerons ensuite du renvoi de Renault devant le tribunal correctionnel dans l'affaire du Dieselgate. Et nous terminerons avec une découverte potentiellement majeure : un immense gisement d'hydrogène naturel en Moselle, qui ravive les espoirs d'un ancien bassin minier.</description>
+      <itunes:summary>Ce matin, nous revenons sur le choc économique que font peser les incendies de Gironde sur des milliers d'entreprises et sur toute une région. Nous parlerons ensuite du renvoi de Renault devant le tribunal correctionnel dans l'affaire du Dieselgate. Et nous terminerons avec une découverte potentiellement majeure : un immense gisement d'hydrogène naturel en Moselle, qui ravive les espoirs d'un ancien bassin minier.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-28.mp3" length="4826975" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>301</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 27/07/2026 : EPR2, TotalEnergies en appel et Fibre Excellence devant le tribunal</title>
       <description>Au programme ce matin : EDF s'associe à Technip Energies pour tenir le cap de son premier réacteur EPR2 d'ici 2038. TotalEnergies fait appel d'un jugement qui l'obligeait à intégrer les émissions de ses clients dans son plan climatique. Et le tribunal de commerce de Toulouse examine une offre de reprise pour Fibre Excellence, le dernier grand fabricant français de pâte à papier marchande.</description>
