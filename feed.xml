@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 06:34:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:17:38 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 28/07/2026 : Incendies en Gironde, Renault au tribunal, hydrogène en Moselle</title>
-      <description>Ce matin, nous revenons sur le choc économique que font peser les incendies de Gironde sur des milliers d'entreprises et sur toute une région. Nous parlerons ensuite du renvoi de Renault devant le tribunal correctionnel dans l'affaire du Dieselgate. Et nous terminerons avec une découverte potentiellement majeure : un immense gisement d'hydrogène naturel en Moselle, qui ravive les espoirs d'un ancien bassin minier.</description>
-      <itunes:summary>Ce matin, nous revenons sur le choc économique que font peser les incendies de Gironde sur des milliers d'entreprises et sur toute une région. Nous parlerons ensuite du renvoi de Renault devant le tribunal correctionnel dans l'affaire du Dieselgate. Et nous terminerons avec une découverte potentiellement majeure : un immense gisement d'hydrogène naturel en Moselle, qui ravive les espoirs d'un ancien bassin minier.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-28.mp3" length="4826975" type="audio/mpeg"/>
+      <title>ÉcoScope France — 28/07/2026 : Incendies en Gironde, déficit hospitalier et bilan des soldes d'été</title>
+      <description>Au sommaire ce matin : les incendies en Gironde paralysent des milliers d'entreprises, et l'État annonce ses premiers dispositifs de soutien. Côté santé, les hôpitaux publics publient leurs comptes pour 2025 : le déficit se réduit, mais reste parmi les plus élevés depuis vingt ans. Et pour finir, les soldes d'été s'achèvent aujourd'hui sur un bilan décevant pour beaucoup de commerçants, malgré une prolongation d'une semaine.</description>
+      <itunes:summary>Au sommaire ce matin : les incendies en Gironde paralysent des milliers d'entreprises, et l'État annonce ses premiers dispositifs de soutien. Côté santé, les hôpitaux publics publient leurs comptes pour 2025 : le déficit se réduit, mais reste parmi les plus élevés depuis vingt ans. Et pour finir, les soldes d'été s'achèvent aujourd'hui sur un bilan décevant pour beaucoup de commerçants, malgré une prolongation d'une semaine.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-28.mp3" length="5399169" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-28</guid>
       <pubDate>Tue, 28 Jul 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>301</itunes:duration>
+      <itunes:duration>337</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
