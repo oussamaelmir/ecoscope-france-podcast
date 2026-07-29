@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 29 Jul 2026 06:33:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:23:29 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 29/07/2026 : SNCF en bénéfice record, salaires au plus bas et chômage des seniors</title>
-      <description>Au programme ce matin : la SNCF affiche un bénéfice net record d'un milliard deux cents millions d'euros au premier semestre, malgré les perturbations climatiques. Nous verrons ensuite que les augmentations de salaires dans les entreprises françaises tombent à leur niveau le plus bas depuis 2021. Et nous terminerons sur le chômage des seniors, avec plus d'un million cinq cents mille demandeurs d'emploi de plus de cinquante ans inscrits à France Travail.</description>
-      <itunes:summary>Au programme ce matin : la SNCF affiche un bénéfice net record d'un milliard deux cents millions d'euros au premier semestre, malgré les perturbations climatiques. Nous verrons ensuite que les augmentations de salaires dans les entreprises françaises tombent à leur niveau le plus bas depuis 2021. Et nous terminerons sur le chômage des seniors, avec plus d'un million cinq cents mille demandeurs d'emploi de plus de cinquante ans inscrits à France Travail.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-29.mp3" length="5431778" type="audio/mpeg"/>
+      <title>ÉcoScope France — 29/07/2026 : Incendies en Gironde, décision de la Fed et ce qui change en août</title>
+      <description>Au programme ce matin : les incendies en Gironde continuent de peser lourdement sur l'économie locale, avec des centaines d'entreprises à l'arrêt et les transports ferroviaires perturbés. Ensuite, nous suivrons la décision très attendue de la banque centrale américaine sur ses taux directeurs, une décision qui concerne aussi les marchés européens. Et enfin, nous ferons le point sur les changements concrets qui entrent en vigueur dès le premier août : tarifs de l'électricité, taux du Livret A et nouvelles règles sur le démarchage téléphonique.</description>
+      <itunes:summary>Au programme ce matin : les incendies en Gironde continuent de peser lourdement sur l'économie locale, avec des centaines d'entreprises à l'arrêt et les transports ferroviaires perturbés. Ensuite, nous suivrons la décision très attendue de la banque centrale américaine sur ses taux directeurs, une décision qui concerne aussi les marchés européens. Et enfin, nous ferons le point sur les changements concrets qui entrent en vigueur dès le premier août : tarifs de l'électricité, taux du Livret A et nouvelles règles sur le démarchage téléphonique.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-29.mp3" length="5732703" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-29</guid>
       <pubDate>Wed, 29 Jul 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>339</itunes:duration>
+      <itunes:duration>358</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
