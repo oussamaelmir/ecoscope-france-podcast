@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Jul 2026 06:33:56 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 09:16:45 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 30/07/2026 : PIB du 2e trimestre, indemnités AT-MP et bataille pour TAP Air Portugal</title>
-      <description>Au programme aujourd'hui : l'Institut national de la statistique, l'INSEE, publie ce matin les chiffres de la croissance française au deuxième trimestre, un chiffre très attendu après un recul en début d'année. Nous verrons aussi quelles pistes le gouvernement explore pour réduire le déficit avant le budget 2027, avec notamment une mesure qui toucherait directement les salariés accidentés du travail. Et enfin, Air France-KLM et Lufthansa se livrent une bataille pour prendre une part significative du capital de TAP Air Portugal.</description>
-      <itunes:summary>Au programme aujourd'hui : l'Institut national de la statistique, l'INSEE, publie ce matin les chiffres de la croissance française au deuxième trimestre, un chiffre très attendu après un recul en début d'année. Nous verrons aussi quelles pistes le gouvernement explore pour réduire le déficit avant le budget 2027, avec notamment une mesure qui toucherait directement les salariés accidentés du travail. Et enfin, Air France-KLM et Lufthansa se livrent une bataille pour prendre une part significative du capital de TAP Air Portugal.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-30.mp3" length="5851409" type="audio/mpeg"/>
+      <title>ÉcoScope France — 30/07/2026 : Fed, incendies en Gironde et luxe français</title>
+      <description>Au programme ce matin : la Réserve fédérale américaine maintient ses taux malgré une inflation persistante, et cette décision fait des vagues bien au-delà des États-Unis. En Gironde, les incendies pèsent lourdement sur l'économie locale, avec des dizaines de milliers de salariés toujours dans l'incapacité de travailler. Et enfin, le titre Hermès a chuté de onze pour cent en une séance à Paris, ravivant les interrogations sur l'avenir du luxe français.</description>
+      <itunes:summary>Au programme ce matin : la Réserve fédérale américaine maintient ses taux malgré une inflation persistante, et cette décision fait des vagues bien au-delà des États-Unis. En Gironde, les incendies pèsent lourdement sur l'économie locale, avec des dizaines de milliers de salariés toujours dans l'incapacité de travailler. Et enfin, le titre Hermès a chuté de onze pour cent en une séance à Paris, ravivant les interrogations sur l'avenir du luxe français.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-30.mp3" length="4895896" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-30</guid>
       <pubDate>Thu, 30 Jul 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>365</itunes:duration>
+      <itunes:duration>305</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
