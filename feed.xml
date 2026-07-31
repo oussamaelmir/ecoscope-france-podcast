@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 31 Jul 2026 06:33:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:25:09 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 31/07/2026 : Renault et Stellantis repassent dans le vert, Sanofi dévoile sa nouvelle stratégie, ADP signe un accord à 8,2 milliards d'euros</title>
-      <description>Au programme de cet épisode : Renault et Stellantis repassent dans le vert au premier semestre, après une année 2025 difficile pour toute l'industrie automobile. Sanofi, de son côté, connaît sa première grande prise de parole stratégique sous la direction de Belén Garijo, sa nouvelle patronne. Et enfin, les aéroports parisiens s'apprêtent à entrer dans une vaste transformation, grâce à un accord entre le groupe ADP et l'État portant sur 8,2 milliards d'euros.</description>
-      <itunes:summary>Au programme de cet épisode : Renault et Stellantis repassent dans le vert au premier semestre, après une année 2025 difficile pour toute l'industrie automobile. Sanofi, de son côté, connaît sa première grande prise de parole stratégique sous la direction de Belén Garijo, sa nouvelle patronne. Et enfin, les aéroports parisiens s'apprêtent à entrer dans une vaste transformation, grâce à un accord entre le groupe ADP et l'État portant sur 8,2 milliards d'euros.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-31.mp3" length="5255935" type="audio/mpeg"/>
+      <title>ÉcoScope France — 31/07/2026 : Inflation en hausse, sécheresse agricole et financement des pompiers en question</title>
+      <description>Au programme ce matin : l'inflation repart à la hausse en France, selon les chiffres publiés ce jour par l'Institut national de la statistique, l'INSEE. Le monde agricole tire la sonnette d'alarme face à une sécheresse que beaucoup d'exploitants décrivent comme la pire de leur carrière. Et enfin, les départements alertent sur leurs difficultés à financer les services de pompiers, alors que les besoins ne cessent de croître.</description>
+      <itunes:summary>Au programme ce matin : l'inflation repart à la hausse en France, selon les chiffres publiés ce jour par l'Institut national de la statistique, l'INSEE. Le monde agricole tire la sonnette d'alarme face à une sécheresse que beaucoup d'exploitants décrivent comme la pire de leur carrière. Et enfin, les départements alertent sur leurs difficultés à financer les services de pompiers, alors que les besoins ne cessent de croître.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-31.mp3" length="5523335" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-31</guid>
       <pubDate>Fri, 31 Jul 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>328</itunes:duration>
+      <itunes:duration>345</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
