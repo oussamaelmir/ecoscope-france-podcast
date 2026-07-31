@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Jul 2026 09:16:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:33:27 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 31/07/2026 : Renault et Stellantis repassent dans le vert, Sanofi dévoile sa nouvelle stratégie, ADP signe un accord à 8,2 milliards d'euros</title>
+      <description>Au programme de cet épisode : Renault et Stellantis repassent dans le vert au premier semestre, après une année 2025 difficile pour toute l'industrie automobile. Sanofi, de son côté, connaît sa première grande prise de parole stratégique sous la direction de Belén Garijo, sa nouvelle patronne. Et enfin, les aéroports parisiens s'apprêtent à entrer dans une vaste transformation, grâce à un accord entre le groupe ADP et l'État portant sur 8,2 milliards d'euros.</description>
+      <itunes:summary>Au programme de cet épisode : Renault et Stellantis repassent dans le vert au premier semestre, après une année 2025 difficile pour toute l'industrie automobile. Sanofi, de son côté, connaît sa première grande prise de parole stratégique sous la direction de Belén Garijo, sa nouvelle patronne. Et enfin, les aéroports parisiens s'apprêtent à entrer dans une vaste transformation, grâce à un accord entre le groupe ADP et l'État portant sur 8,2 milliards d'euros.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-07-31.mp3" length="5255935" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>328</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 30/07/2026 : Fed, incendies en Gironde et luxe français</title>
       <description>Au programme ce matin : la Réserve fédérale américaine maintient ses taux malgré une inflation persistante, et cette décision fait des vagues bien au-delà des États-Unis. En Gironde, les incendies pèsent lourdement sur l'économie locale, avec des dizaines de milliers de salariés toujours dans l'incapacité de travailler. Et enfin, le titre Hermès a chuté de onze pour cent en une séance à Paris, ravivant les interrogations sur l'avenir du luxe français.</description>
