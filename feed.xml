@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 01 Aug 2026 06:33:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:05:52 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 01/08/2026 : Mesures budgétaires du 1er août, EDF revoit ses perspectives à la baisse, Maisons du Monde évite le redressement judiciaire</title>
-      <description>Au programme de cet épisode : plusieurs mesures entrent en vigueur aujourd'hui même, avec des effets directs sur le budget des ménages. Ensuite, EDF revoit ses prévisions financières à la baisse, pénalisé par les canicules et la sécheresse. Et enfin, Maisons du Monde boucle son plan de sauvetage et écarte le risque de redressement judiciaire.</description>
-      <itunes:summary>Au programme de cet épisode : plusieurs mesures entrent en vigueur aujourd'hui même, avec des effets directs sur le budget des ménages. Ensuite, EDF revoit ses prévisions financières à la baisse, pénalisé par les canicules et la sécheresse. Et enfin, Maisons du Monde boucle son plan de sauvetage et écarte le risque de redressement judiciaire.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-01.mp3" length="5302731" type="audio/mpeg"/>
+      <title>ÉcoScope France — 01/08/2026 : Bénéfices du CAC 40 en forte hausse, données de santé Doctolib et rebond automobile</title>
+      <description>Au programme ce matin : les grandes entreprises du CAC 40 affichent des profits en forte hausse au premier semestre, malgré un contexte géopolitique agité. Ensuite, Doctolib mobilise dès aujourd'hui les données médicales de cinquante millions de Français pour un projet d'intelligence artificielle, et ce choix soulève des questions sur la confidentialité. Enfin, le marché automobile français renoue avec la croissance en juillet, porté par l'électrique et des marques chinoises en progression rapide.</description>
+      <itunes:summary>Au programme ce matin : les grandes entreprises du CAC 40 affichent des profits en forte hausse au premier semestre, malgré un contexte géopolitique agité. Ensuite, Doctolib mobilise dès aujourd'hui les données médicales de cinquante millions de Français pour un projet d'intelligence artificielle, et ce choix soulève des questions sur la confidentialité. Enfin, le marché automobile français renoue avec la croissance en juillet, porté par l'électrique et des marques chinoises en progression rapide.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-01.mp3" length="5194817" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-08-01</guid>
       <pubDate>Sat, 01 Aug 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>331</itunes:duration>
+      <itunes:duration>324</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
