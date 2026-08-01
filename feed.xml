@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 31 Jul 2026 09:25:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:33:47 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 01/08/2026 : Mesures budgétaires du 1er août, EDF revoit ses perspectives à la baisse, Maisons du Monde évite le redressement judiciaire</title>
+      <description>Au programme de cet épisode : plusieurs mesures entrent en vigueur aujourd'hui même, avec des effets directs sur le budget des ménages. Ensuite, EDF revoit ses prévisions financières à la baisse, pénalisé par les canicules et la sécheresse. Et enfin, Maisons du Monde boucle son plan de sauvetage et écarte le risque de redressement judiciaire.</description>
+      <itunes:summary>Au programme de cet épisode : plusieurs mesures entrent en vigueur aujourd'hui même, avec des effets directs sur le budget des ménages. Ensuite, EDF revoit ses prévisions financières à la baisse, pénalisé par les canicules et la sécheresse. Et enfin, Maisons du Monde boucle son plan de sauvetage et écarte le risque de redressement judiciaire.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-01.mp3" length="5302731" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>331</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 31/07/2026 : Inflation en hausse, sécheresse agricole et financement des pompiers en question</title>
       <description>Au programme ce matin : l'inflation repart à la hausse en France, selon les chiffres publiés ce jour par l'Institut national de la statistique, l'INSEE. Le monde agricole tire la sonnette d'alarme face à une sécheresse que beaucoup d'exploitants décrivent comme la pire de leur carrière. Et enfin, les départements alertent sur leurs difficultés à financer les services de pompiers, alors que les besoins ne cessent de croître.</description>
