@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 01 Aug 2026 09:05:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 06:33:46 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 02/08/2026 : Incendies en Gironde, EDF et le nucléaire, Lactalis rachète Rians</title>
+      <description>Ce matin, trois sujets retiennent notre attention. D'abord, les incendies en Gironde : un parlementaire réclame un budget rectificatif d'urgence, pendant que les professionnels du tourisme comptent leurs pertes. Ensuite, le président-directeur général d'EDF détaille la stratégie d'investissement du groupe dans le nucléaire et l'hydroélectrique. Et enfin, une acquisition majeure dans l'industrie laitière : Lactalis est en passe de racheter l'entreprise familiale Triballat, connue pour ses faisselles Rians.</description>
+      <itunes:summary>Ce matin, trois sujets retiennent notre attention. D'abord, les incendies en Gironde : un parlementaire réclame un budget rectificatif d'urgence, pendant que les professionnels du tourisme comptent leurs pertes. Ensuite, le président-directeur général d'EDF détaille la stratégie d'investissement du groupe dans le nucléaire et l'hydroélectrique. Et enfin, une acquisition majeure dans l'industrie laitière : Lactalis est en passe de racheter l'entreprise familiale Triballat, connue pour ses faisselles Rians.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-02.mp3" length="5462275" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>341</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 01/08/2026 : Bénéfices du CAC 40 en forte hausse, données de santé Doctolib et rebond automobile</title>
       <description>Au programme ce matin : les grandes entreprises du CAC 40 affichent des profits en forte hausse au premier semestre, malgré un contexte géopolitique agité. Ensuite, Doctolib mobilise dès aujourd'hui les données médicales de cinquante millions de Français pour un projet d'intelligence artificielle, et ce choix soulève des questions sur la confidentialité. Enfin, le marché automobile français renoue avec la croissance en juillet, porté par l'électrique et des marques chinoises en progression rapide.</description>
