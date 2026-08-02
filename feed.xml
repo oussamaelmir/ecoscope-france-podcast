@@ -26,15 +26,15 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 02 Aug 2026 06:33:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 09:10:31 +0200</lastBuildDate>
     <item>
-      <title>ÉcoScope France — 02/08/2026 : Incendies en Gironde, EDF et le nucléaire, Lactalis rachète Rians</title>
-      <description>Ce matin, trois sujets retiennent notre attention. D'abord, les incendies en Gironde : un parlementaire réclame un budget rectificatif d'urgence, pendant que les professionnels du tourisme comptent leurs pertes. Ensuite, le président-directeur général d'EDF détaille la stratégie d'investissement du groupe dans le nucléaire et l'hydroélectrique. Et enfin, une acquisition majeure dans l'industrie laitière : Lactalis est en passe de racheter l'entreprise familiale Triballat, connue pour ses faisselles Rians.</description>
-      <itunes:summary>Ce matin, trois sujets retiennent notre attention. D'abord, les incendies en Gironde : un parlementaire réclame un budget rectificatif d'urgence, pendant que les professionnels du tourisme comptent leurs pertes. Ensuite, le président-directeur général d'EDF détaille la stratégie d'investissement du groupe dans le nucléaire et l'hydroélectrique. Et enfin, une acquisition majeure dans l'industrie laitière : Lactalis est en passe de racheter l'entreprise familiale Triballat, connue pour ses faisselles Rians.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-02.mp3" length="5462275" type="audio/mpeg"/>
+      <title>ÉcoScope France — 02/08/2026 : Obligation d'étiquetage IA, sécheresse et pommes normandes, incendies en Gironde</title>
+      <description>Au programme ce matin : une nouvelle obligation européenne entre en vigueur aujourd'hui même, elle concerne toutes les entreprises qui utilisent l'intelligence artificielle pour produire des contenus. Ensuite, nous irons en Normandie, où la sécheresse menace sérieusement la récolte de pommes et toute la filière cidre et calvados. Et enfin, nous ferons le point sur la situation économique en Gironde, après plusieurs jours d'incendies et la reprise progressive du trafic ferroviaire.</description>
+      <itunes:summary>Au programme ce matin : une nouvelle obligation européenne entre en vigueur aujourd'hui même, elle concerne toutes les entreprises qui utilisent l'intelligence artificielle pour produire des contenus. Ensuite, nous irons en Normandie, où la sécheresse menace sérieusement la récolte de pommes et toute la filière cidre et calvados. Et enfin, nous ferons le point sur la situation économique en Gironde, après plusieurs jours d'incendies et la reprise progressive du trafic ferroviaire.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-02.mp3" length="5142566" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-08-02</guid>
       <pubDate>Sun, 02 Aug 2026 07:00:00 +0200</pubDate>
-      <itunes:duration>341</itunes:duration>
+      <itunes:duration>321</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
