@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 03 Aug 2026 10:00:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:33:40 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 04/08/2026 : Réacteurs nucléaires à l'arrêt, gigafactories en difficulté et gazole en hausse</title>
+      <description>Au programme ce matin : la canicule force EDF à mettre à l'arrêt trois réacteurs nucléaires, faute de débit suffisant dans la Meuse et la Moselle. Ensuite, les gigafactories de batteries électriques dans les Hauts-de-France traversent de sérieuses difficultés industrielles. Et enfin, le prix du gazole à la pompe a bondi de 35 centimes en un mois et s'approche de son niveau record.</description>
+      <itunes:summary>Au programme ce matin : la canicule force EDF à mettre à l'arrêt trois réacteurs nucléaires, faute de débit suffisant dans la Meuse et la Moselle. Ensuite, les gigafactories de batteries électriques dans les Hauts-de-France traversent de sérieuses difficultés industrielles. Et enfin, le prix du gazole à la pompe a bondi de 35 centimes en un mois et s'approche de son niveau record.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-04.mp3" length="5199819" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>324</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 03/08/2026 : Contrôle des investissements étrangers, chute du pétrole et TotalEnergies dans les renouvelables</title>
       <description>Au programme de cet épisode : le gouvernement durcit le contrôle des investissements étrangers dans les entreprises stratégiques. Les cours du pétrole décrochent de près de cinq pour cent après des annonces sur le dossier iranien. Et TotalEnergies annonce deux grandes transactions dans l'énergie renouvelable en Europe.</description>
