@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 04 Aug 2026 06:33:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:33:34 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 21/08/2026 : Budget 2027 en péril, franchises médicales revues, taux d'emprunt au-dessus de 4 pour cent</title>
+      <description>Au programme ce matin : l'Inspection générale des finances tire la sonnette d'alarme sur les risques d'une France sans budget en 2027. Le gouvernement fait marche arrière sur le doublement des franchises médicales. Et les taux d'emprunt français à dix ans dépassent désormais quatre pour cent, un niveau supérieur à celui de l'Italie, de l'Espagne et de la Grèce. Trois sujets au cœur des finances publiques françaises.</description>
+      <itunes:summary>Au programme ce matin : l'Inspection générale des finances tire la sonnette d'alarme sur les risques d'une France sans budget en 2027. Le gouvernement fait marche arrière sur le doublement des franchises médicales. Et les taux d'emprunt français à dix ans dépassent désormais quatre pour cent, un niveau supérieur à celui de l'Italie, de l'Espagne et de la Grèce. Trois sujets au cœur des finances publiques françaises.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-08-21.mp3" length="4818670" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>301</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 04/08/2026 : Réacteurs nucléaires à l'arrêt, gigafactories en difficulté et gazole en hausse</title>
       <description>Au programme ce matin : la canicule force EDF à mettre à l'arrêt trois réacteurs nucléaires, faute de débit suffisant dans la Meuse et la Moselle. Ensuite, les gigafactories de batteries électriques dans les Hauts-de-France traversent de sérieuses difficultés industrielles. Et enfin, le prix du gazole à la pompe a bondi de 35 centimes en un mois et s'approche de son niveau record.</description>
