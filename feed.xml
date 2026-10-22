@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 16:21:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:36:33 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 22/10/2026 : OAT à 5 %, mobilisation sociale et crise locative</title>
+      <description>Au programme ce matin : la France emprunte désormais plus cher que les États-Unis, une situation inédite depuis mai 2013, et l'agence Moody's est attendue sur la note souveraine française. Nous verrons aussi comment commerçants et syndicats se préparent à la mobilisation de samedi, à la veille d'un possible appel à la grève générale le 5 novembre. Et enfin, le président d'Orpi tire la sonnette d'alarme sur le marché locatif français, où l'offre continue de se contracter.</description>
+      <itunes:summary>Au programme ce matin : la France emprunte désormais plus cher que les États-Unis, une situation inédite depuis mai 2013, et l'agence Moody's est attendue sur la note souveraine française. Nous verrons aussi comment commerçants et syndicats se préparent à la mobilisation de samedi, à la veille d'un possible appel à la grève générale le 5 novembre. Et enfin, le président d'Orpi tire la sonnette d'alarme sur le marché locatif français, où l'offre continue de se contracter.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-22.mp3" length="5254102" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>328</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 21/10/2026 : Taux d'emprunt à 5 pour cent, impact des violences du 17 octobre, et ponction sur l'Assurance chômage</title>
       <description>Au programme ce matin : le taux auquel la France emprunte à dix ans franchit pour la première fois depuis 2002 le seuil symbolique de cinq pour cent. Nous ferons également le point sur les conséquences économiques des violences du 17 octobre, entre factures salées pour les commerçants et nouvelles inquiétudes avant le 24 octobre. Et enfin, l'Unédic alerte sur un déficit prévu de six cents millions d'euros en 2027, conséquence directe d'une ponction de l'État sur ses recettes.</description>
