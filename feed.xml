@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 22 Oct 2026 11:36:33 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:32:12 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 23/10/2026 : Smic en débat, dette sous pression, tempête Austen</title>
+      <description>Au programme aujourd'hui : le débat sur une revalorisation anticipée du salaire minimum interprofessionnel de croissance, le Smic, qui oppose syndicats, patronat et gouvernement. Ensuite, nous ferons le point sur la pression croissante qui pèse sur la dette française, après la décision de l'agence Moody's. Et enfin, nous verrons les conséquences économiques de la tempête Austen, qui a frappé le nord-ouest de la France cette nuit.</description>
+      <itunes:summary>Au programme aujourd'hui : le débat sur une revalorisation anticipée du salaire minimum interprofessionnel de croissance, le Smic, qui oppose syndicats, patronat et gouvernement. Ensuite, nous ferons le point sur la pression croissante qui pèse sur la dette française, après la décision de l'agence Moody's. Et enfin, nous verrons les conséquences économiques de la tempête Austen, qui a frappé le nord-ouest de la France cette nuit.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-23.mp3" length="5202283" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>325</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 22/10/2026 : OAT à 5 %, mobilisation sociale et crise locative</title>
       <description>Au programme ce matin : la France emprunte désormais plus cher que les États-Unis, une situation inédite depuis mai 2013, et l'agence Moody's est attendue sur la note souveraine française. Nous verrons aussi comment commerçants et syndicats se préparent à la mobilisation de samedi, à la veille d'un possible appel à la grève générale le 5 novembre. Et enfin, le président d'Orpi tire la sonnette d'alarme sur le marché locatif français, où l'offre continue de se contracter.</description>
