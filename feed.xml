@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Oct 2026 11:32:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:04:25 +0200</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 24/10/2026 : Note Moody's maintenue, Gifi en redressement, commandes d'armement record</title>
+      <description>Ce soir, l'agence Moody's a créé la surprise en maintenant la note souveraine de la France, alors qu'une dégradation était largement anticipée. Par ailleurs, l'enseigne Gifi a demandé son placement en redressement judiciaire, menaçant six mille emplois. Et du côté de la défense, la Direction générale de l'armement affiche des commandes sans précédent depuis le début de l'année.</description>
+      <itunes:summary>Ce soir, l'agence Moody's a créé la surprise en maintenant la note souveraine de la France, alors qu'une dégradation était largement anticipée. Par ailleurs, l'enseigne Gifi a demandé son placement en redressement judiciaire, menaçant six mille emplois. Et du côté de la défense, la Direction générale de l'armement affiche des commandes sans précédent depuis le début de l'année.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-24.mp3" length="4926472" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 +0200</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 23/10/2026 : Smic en débat, dette sous pression, tempête Austen</title>
       <description>Au programme aujourd'hui : le débat sur une revalorisation anticipée du salaire minimum interprofessionnel de croissance, le Smic, qui oppose syndicats, patronat et gouvernement. Ensuite, nous ferons le point sur la pression croissante qui pèse sur la dette française, après la décision de l'agence Moody's. Et enfin, nous verrons les conséquences économiques de la tempête Austen, qui a frappé le nord-ouest de la France cette nuit.</description>
