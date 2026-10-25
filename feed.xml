@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Oct 2026 11:04:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:20:28 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 25/10/2026 : Smic anticipé, budget défense en péril, billets d'avion en hausse</title>
+      <description>Au programme ce matin : le gouvernement envisage une revalorisation anticipée du Smic, avant même le premier janvier. Côté défense, l'absence de budget voté pour 2027 ferait peser un risque sérieux sur les commandes militaires. Et enfin, les billets d'avion pourraient encore grimper l'an prochain, selon le patron de Ryanair.</description>
+      <itunes:summary>Au programme ce matin : le gouvernement envisage une revalorisation anticipée du Smic, avant même le premier janvier. Côté défense, l'absence de budget voté pour 2027 ferait peser un risque sérieux sur les commandes militaires. Et enfin, les billets d'avion pourraient encore grimper l'an prochain, selon le patron de Ryanair.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-25.mp3" length="4786861" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>299</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 24/10/2026 : Note Moody's maintenue, Gifi en redressement, commandes d'armement record</title>
       <description>Ce soir, l'agence Moody's a créé la surprise en maintenant la note souveraine de la France, alors qu'une dégradation était largement anticipée. Par ailleurs, l'enseigne Gifi a demandé son placement en redressement judiciaire, menaçant six mille emplois. Et du côté de la défense, la Direction générale de l'armement affiche des commandes sans précédent depuis le début de l'année.</description>
