@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 10:20:28 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:27:14 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 26/10/2026 : Commerce sous pression, budget fragilisé et tensions sur les prix alimentaires</title>
+      <description>Au programme ce matin : les commerçants tirent la sonnette d'alarme face aux manifestations à répétition, à l'approche des fêtes de fin d'année. Nous ferons également le point sur les perspectives économiques françaises, entre budget incertain et note souveraine maintenue par Moody's. Et nous terminerons avec les négociations sur les prix alimentaires, qui s'annoncent particulièrement tendues à Bercy cette semaine.</description>
+      <itunes:summary>Au programme ce matin : les commerçants tirent la sonnette d'alarme face aux manifestations à répétition, à l'approche des fêtes de fin d'année. Nous ferons également le point sur les perspectives économiques françaises, entre budget incertain et note souveraine maintenue par Moody's. Et nous terminerons avec les négociations sur les prix alimentaires, qui s'annoncent particulièrement tendues à Bercy cette semaine.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-26.mp3" length="5023864" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>313</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 25/10/2026 : Smic anticipé, budget défense en péril, billets d'avion en hausse</title>
       <description>Au programme ce matin : le gouvernement envisage une revalorisation anticipée du Smic, avant même le premier janvier. Côté défense, l'absence de budget voté pour 2027 ferait peser un risque sérieux sur les commandes militaires. Et enfin, les billets d'avion pourraient encore grimper l'an prochain, selon le patron de Ryanair.</description>
