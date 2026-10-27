@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 11:27:14 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:01:06 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 27/10/2026 : Confiance des ménages au plus bas, les 5 milliards lycéens à financer, carburant et inflation alimentaire</title>
+      <description>Au programme de cet épisode : la confiance des ménages français atteint son niveau le plus bas depuis plus de treize ans, selon l'Institut national de la statistique et des études économiques, l'INSEE. Ensuite, le gouvernement cherche comment financer cinq milliards d'euros de mesures pour les lycées sans creuser le déficit public. Et enfin, la consommation de carburant s'effondre dans les stations-service, pendant que le patron de Coopérative U prévient d'une hausse des prix alimentaires dès le printemps.</description>
+      <itunes:summary>Au programme de cet épisode : la confiance des ménages français atteint son niveau le plus bas depuis plus de treize ans, selon l'Institut national de la statistique et des études économiques, l'INSEE. Ensuite, le gouvernement cherche comment financer cinq milliards d'euros de mesures pour les lycées sans creuser le déficit public. Et enfin, la consommation de carburant s'effondre dans les stations-service, pendant que le patron de Coopérative U prévient d'une hausse des prix alimentaires dès le printemps.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-27.mp3" length="4828313" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>301</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 26/10/2026 : Commerce sous pression, budget fragilisé et tensions sur les prix alimentaires</title>
       <description>Au programme ce matin : les commerçants tirent la sonnette d'alarme face aux manifestations à répétition, à l'approche des fêtes de fin d'année. Nous ferons également le point sur les perspectives économiques françaises, entre budget incertain et note souveraine maintenue par Moody's. Et nous terminerons avec les négociations sur les prix alimentaires, qui s'annoncent particulièrement tendues à Bercy cette semaine.</description>
