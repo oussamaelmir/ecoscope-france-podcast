@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 11:47:50 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:01:05 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 30/10/2026 : Recul du PIB, prix du carburant et démission de Lagarde</title>
+      <description>Au programme ce matin : le produit intérieur brut français recule pour le troisième trimestre de suite, et le spectre de la récession se précise. TotalEnergies annonce une baisse du prix du gazole dans ses stations dès demain, après le déblocage des réserves stratégiques par l'État. Et Christine Lagarde quitte la présidence de la Banque centrale européenne neuf mois avant la fin de son mandat, créant une incertitude sur la politique monétaire en Europe.</description>
+      <itunes:summary>Au programme ce matin : le produit intérieur brut français recule pour le troisième trimestre de suite, et le spectre de la récession se précise. TotalEnergies annonce une baisse du prix du gazole dans ses stations dès demain, après le déblocage des réserves stratégiques par l'État. Et Christine Lagarde quitte la présidence de la Banque centrale européenne neuf mois avant la fin de son mandat, créant une incertitude sur la politique monétaire en Europe.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-30.mp3" length="5507402" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>344</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 28/10/2026 : Aide aux commerces, résultats de TotalEnergies et Stellantis, compétitivité industrielle française</title>
       <description>Au programme ce matin : le gouvernement dévoile ses mesures pour aider les commerces dégradés lors des violences des 17 et 24 octobre, et envisage une taxe spéciale pour financer les réparations. Ensuite, deux géants du CAC 40 publient des résultats très contrastés : TotalEnergies affiche des bénéfices portés par la flambée des prix de l'énergie, tandis que Stellantis reste dans le rouge. Enfin, deux signaux préoccupants sur la compétitivité industrielle française : Safran préfère investir au Royaume-Uni, et la Cour des comptes pointe une concentration massive des fonds du plan France 2030.</description>
