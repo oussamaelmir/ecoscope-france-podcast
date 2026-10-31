@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 30 Oct 2026 12:01:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:33:56 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 31/10/2026 : Fitch dégrade la perspective de la dette française, changements au 1er novembre et inflation à 3,4 pour cent</title>
+      <description>Au programme de cet épisode : l'agence de notation Fitch envoie un signal d'alerte sur la dette de la France. Ensuite, plusieurs changements entrent en vigueur dès ce dimanche 1er novembre, avec des effets directs sur votre budget. Et enfin, l'inflation remonte à 3,4 pour cent en octobre, une première depuis quinze ans, avec une mobilisation nationale contre la vie chère.</description>
+      <itunes:summary>Au programme de cet épisode : l'agence de notation Fitch envoie un signal d'alerte sur la dette de la France. Ensuite, plusieurs changements entrent en vigueur dès ce dimanche 1er novembre, avec des effets directs sur votre budget. Et enfin, l'inflation remonte à 3,4 pour cent en octobre, une première depuis quinze ans, avec une mobilisation nationale contre la vie chère.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-10-31.mp3" length="5566436" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>347</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 30/10/2026 : Recul du PIB, prix du carburant et démission de Lagarde</title>
       <description>Au programme ce matin : le produit intérieur brut français recule pour le troisième trimestre de suite, et le spectre de la récession se précise. TotalEnergies annonce une baisse du prix du gazole dans ses stations dès demain, après le déblocage des réserves stratégiques par l'État. Et Christine Lagarde quitte la présidence de la Banque centrale européenne neuf mois avant la fin de son mandat, créant une incertitude sur la politique monétaire en Europe.</description>
