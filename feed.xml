@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 11:33:56 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:28:35 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 01/11/2026 : Sécurité sociale en tension, budget 2027 dans l'impasse, et rebond des ventes de voitures électriques</title>
+      <description>Au programme ce matin : la Cour des comptes tire la sonnette d'alarme sur le financement de la Sécurité sociale, et les discussions budgétaires s'annoncent très tendues. Côté budget justement, le rapporteur général prédit que le texte sera rejeté par le Parlement et plaide pour un recours au quarante-neuf-trois. Et enfin, une bonne nouvelle pour la filière automobile : les ventes de voitures neuves ont progressé de sept pour cent en octobre, portées par un envol des immatriculations électriques.</description>
+      <itunes:summary>Au programme ce matin : la Cour des comptes tire la sonnette d'alarme sur le financement de la Sécurité sociale, et les discussions budgétaires s'annoncent très tendues. Côté budget justement, le rapporteur général prédit que le texte sera rejeté par le Parlement et plaide pour un recours au quarante-neuf-trois. Et enfin, une bonne nouvelle pour la filière automobile : les ventes de voitures neuves ont progressé de sept pour cent en octobre, portées par un envol des immatriculations électriques.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-01.mp3" length="5228297" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>326</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 31/10/2026 : Fitch dégrade la perspective de la dette française, changements au 1er novembre et inflation à 3,4 pour cent</title>
       <description>Au programme de cet épisode : l'agence de notation Fitch envoie un signal d'alerte sur la dette de la France. Ensuite, plusieurs changements entrent en vigueur dès ce dimanche 1er novembre, avec des effets directs sur votre budget. Et enfin, l'inflation remonte à 3,4 pour cent en octobre, une première depuis quinze ans, avec une mobilisation nationale contre la vie chère.</description>
