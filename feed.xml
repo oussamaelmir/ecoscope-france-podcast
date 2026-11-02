@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 12:28:35 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:48:55 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 02/11/2026 : Alstom en chute libre, Smic en discussion, gazole en baisse partielle</title>
+      <description>Au programme ce matin : Alstom plonge de plus de trente pour cent en Bourse après un nouvel avertissement sur ses résultats, lié à des retards coûteux en Allemagne. Le gouvernement envisage une revalorisation anticipée du salaire minimum interprofessionnel de croissance, le Smic, dans un contexte social tendu. Et le gazole a baissé à la pompe dans plus de la moitié des stations, mais pas encore partout.</description>
+      <itunes:summary>Au programme ce matin : Alstom plonge de plus de trente pour cent en Bourse après un nouvel avertissement sur ses résultats, lié à des retards coûteux en Allemagne. Le gouvernement envisage une revalorisation anticipée du salaire minimum interprofessionnel de croissance, le Smic, dans un contexte social tendu. Et le gazole a baissé à la pompe dans plus de la moitié des stations, mais pas encore partout.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-02.mp3" length="4923535" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 01/11/2026 : Sécurité sociale en tension, budget 2027 dans l'impasse, et rebond des ventes de voitures électriques</title>
       <description>Au programme ce matin : la Cour des comptes tire la sonnette d'alarme sur le financement de la Sécurité sociale, et les discussions budgétaires s'annoncent très tendues. Côté budget justement, le rapporteur général prédit que le texte sera rejeté par le Parlement et plaide pour un recours au quarante-neuf-trois. Et enfin, une bonne nouvelle pour la filière automobile : les ventes de voitures neuves ont progressé de sept pour cent en octobre, portées par un envol des immatriculations électriques.</description>
