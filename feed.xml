@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 13:48:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:15:23 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 03/11/2026 : Budget sous pression, gazole en baisse, cumul emploi-retraite réformé</title>
+      <description>Au programme ce matin : le budget 2027 fragilisé par des prévisions de croissance jugées trop optimistes, pendant que les taux d'intérêt sur la dette française continuent de monter. Ensuite, une guerre des prix à la pompe sur le gazole, avec des baisses déjà visibles dans six mille stations sur dix mille. Et enfin, les nouvelles règles du cumul emploi-retraite sont officiellement publiées : elles changeront la donne pour tous ceux qui partiront à la retraite à partir de 2027.</description>
+      <itunes:summary>Au programme ce matin : le budget 2027 fragilisé par des prévisions de croissance jugées trop optimistes, pendant que les taux d'intérêt sur la dette française continuent de monter. Ensuite, une guerre des prix à la pompe sur le gazole, avec des baisses déjà visibles dans six mille stations sur dix mille. Et enfin, les nouvelles règles du cumul emploi-retraite sont officiellement publiées : elles changeront la donne pour tous ceux qui partiront à la retraite à partir de 2027.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-03.mp3" length="5316416" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>332</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 02/11/2026 : Alstom en chute libre, Smic en discussion, gazole en baisse partielle</title>
       <description>Au programme ce matin : Alstom plonge de plus de trente pour cent en Bourse après un nouvel avertissement sur ses résultats, lié à des retards coûteux en Allemagne. Le gouvernement envisage une revalorisation anticipée du salaire minimum interprofessionnel de croissance, le Smic, dans un contexte social tendu. Et le gazole a baissé à la pompe dans plus de la moitié des stations, mais pas encore partout.</description>
