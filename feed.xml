@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 13:15:23 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:27:28 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 04/11/2026 : Cyberattaque contre Crédit Mutuel Arkéa, inflation en zone euro à 4 pour cent, budget et Smic</title>
+      <description>Au programme ce matin : une cyberattaque d'une ampleur sans précédent frappe le groupe bancaire Crédit Mutuel Arkéa et sa filiale en ligne Fortuneo. L'inflation en zone euro repasse au-dessus de 4 pour cent, portée par une flambée des prix de l'énergie. Et le gouvernement maintient ses prévisions budgétaires malgré un produit intérieur brut en recul, tout en envisageant un coup de pouce au salaire minimum.</description>
+      <itunes:summary>Au programme ce matin : une cyberattaque d'une ampleur sans précédent frappe le groupe bancaire Crédit Mutuel Arkéa et sa filiale en ligne Fortuneo. L'inflation en zone euro repasse au-dessus de 4 pour cent, portée par une flambée des prix de l'énergie. Et le gouvernement maintient ses prévisions budgétaires malgré un produit intérieur brut en recul, tout en envisageant un coup de pouce au salaire minimum.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-04.mp3" length="5776643" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>360</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 03/11/2026 : Budget sous pression, gazole en baisse, cumul emploi-retraite réformé</title>
       <description>Au programme ce matin : le budget 2027 fragilisé par des prévisions de croissance jugées trop optimistes, pendant que les taux d'intérêt sur la dette française continuent de monter. Ensuite, une guerre des prix à la pompe sur le gazole, avec des baisses déjà visibles dans six mille stations sur dix mille. Et enfin, les nouvelles règles du cumul emploi-retraite sont officiellement publiées : elles changeront la donne pour tous ceux qui partiront à la retraite à partir de 2027.</description>
