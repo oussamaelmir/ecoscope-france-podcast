@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Nov 2026 13:27:28 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:42:11 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 05/11/2026 : Grève nationale contre la vie chère, budget rejeté à l'Assemblée, commerce en difficulté</title>
+      <description>Au programme ce soir : une journée de grève nationale qui met la question des salaires au centre du débat. Le budget 2027, lui, vient d'être rejeté à l'Assemblée nationale sans une seule voix pour. Et dans le commerce de détail, les dégradations du 17 octobre ont lourdement pesé sur les ventes de vêtements.</description>
+      <itunes:summary>Au programme ce soir : une journée de grève nationale qui met la question des salaires au centre du débat. Le budget 2027, lui, vient d'être rejeté à l'Assemblée nationale sans une seule voix pour. Et dans le commerce de détail, les dégradations du 17 octobre ont lourdement pesé sur les ventes de vêtements.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-05.mp3" length="4986685" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>311</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 04/11/2026 : Cyberattaque contre Crédit Mutuel Arkéa, inflation en zone euro à 4 pour cent, budget et Smic</title>
       <description>Au programme ce matin : une cyberattaque d'une ampleur sans précédent frappe le groupe bancaire Crédit Mutuel Arkéa et sa filiale en ligne Fortuneo. L'inflation en zone euro repasse au-dessus de 4 pour cent, portée par une flambée des prix de l'énergie. Et le gouvernement maintient ses prévisions budgétaires malgré un produit intérieur brut en recul, tout en envisageant un coup de pouce au salaire minimum.</description>
