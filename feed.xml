@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 13:42:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:24:51 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 06/11/2026 : Salaires en baisse réelle, TGV M en service, et Smic à 1 500 euros en débat</title>
+      <description>Au programme ce matin : les salaires du secteur privé reculent en termes réels, selon les chiffres du ministère du Travail. Le TGV M, cinquième génération du train à grande vitesse, effectue son premier voyage commercial aujourd'hui. Et le mouvement social se poursuit, avec une évocation par le ministre du Travail d'un relèvement du salaire minimum à mille cinq cents euros nets.</description>
+      <itunes:summary>Au programme ce matin : les salaires du secteur privé reculent en termes réels, selon les chiffres du ministère du Travail. Le TGV M, cinquième génération du train à grande vitesse, effectue son premier voyage commercial aujourd'hui. Et le mouvement social se poursuit, avec une évocation par le ministre du Travail d'un relèvement du salaire minimum à mille cinq cents euros nets.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-06.mp3" length="5378292" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>336</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 05/11/2026 : Grève nationale contre la vie chère, budget rejeté à l'Assemblée, commerce en difficulté</title>
       <description>Au programme ce soir : une journée de grève nationale qui met la question des salaires au centre du débat. Le budget 2027, lui, vient d'être rejeté à l'Assemblée nationale sans une seule voix pour. Et dans le commerce de détail, les dégradations du 17 octobre ont lourdement pesé sur les ventes de vêtements.</description>
