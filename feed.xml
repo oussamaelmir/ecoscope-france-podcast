@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Nov 2026 12:29:44 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:55:36 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 10/11/2026 : Hausse du gaz, décret sur les salaires et grande usine Airbus près de Toulouse</title>
+      <description>Au programme de cet épisode : une nouvelle hausse du prix du gaz qui s'annonce pour décembre, avec un surcoût moyen de cent quarante-trois euros par foyer sur l'année. Ensuite, un décret publié ce matin au Journal officiel pour sanctionner les branches professionnelles dont les grilles de salaires restent en dessous du salaire minimum. Et enfin, Airbus annonce une usine géante près de Toulouse, avec neuf cents millions d'euros d'investissement et jusqu'à trois mille cinq cents emplois à la clé.</description>
+      <itunes:summary>Au programme de cet épisode : une nouvelle hausse du prix du gaz qui s'annonce pour décembre, avec un surcoût moyen de cent quarante-trois euros par foyer sur l'année. Ensuite, un décret publié ce matin au Journal officiel pour sanctionner les branches professionnelles dont les grilles de salaires restent en dessous du salaire minimum. Et enfin, Airbus annonce une usine géante près de Toulouse, avec neuf cents millions d'euros d'investissement et jusqu'à trois mille cinq cents emplois à la clé.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-10.mp3" length="5311421" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>331</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 08/11/2026 : Conférence sociale sur les salaires, dette publique et précarité en hausse</title>
       <description>Au programme ce matin : une conférence sociale s'ouvre demain à Matignon autour du salaire minimum et du pouvoir d'achat, dans un contexte de tension sociale. L'ancien gouverneur de la Banque de France alerte sur la trajectoire de la dette publique. Et les indicateurs de précarité continuent de se dégrader, avec un chômage des jeunes qui dépasse vingt et un pour cent et des banques alimentaires sous pression.</description>
