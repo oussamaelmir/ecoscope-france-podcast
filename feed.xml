@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Nov 2026 13:55:36 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:04:47 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 11/11/2026 : Carburant, immobilier et rénovation énergétique</title>
+      <description>Au programme ce matin : les prix à la pompe restent sous tension, avec des ruptures ponctuelles de carburant dans le nord-est et un gouvernement prêt à puiser de nouveau dans les stocks stratégiques. Côté immobilier, la remontée des taux d'intérêt continue de freiner les transactions et pèse sur les ménages emprunteurs. Et enfin, une étude révèle que les aides publiques ne couvrent que trente-huit pour cent du coût des travaux de rénovation énergétique en copropriété.</description>
+      <itunes:summary>Au programme ce matin : les prix à la pompe restent sous tension, avec des ruptures ponctuelles de carburant dans le nord-est et un gouvernement prêt à puiser de nouveau dans les stocks stratégiques. Côté immobilier, la remontée des taux d'intérêt continue de freiner les transactions et pèse sur les ménages emprunteurs. Et enfin, une étude révèle que les aides publiques ne couvrent que trente-huit pour cent du coût des travaux de rénovation énergétique en copropriété.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-11.mp3" length="5155884" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>322</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 10/11/2026 : Hausse du gaz, décret sur les salaires et grande usine Airbus près de Toulouse</title>
       <description>Au programme de cet épisode : une nouvelle hausse du prix du gaz qui s'annonce pour décembre, avec un surcoût moyen de cent quarante-trois euros par foyer sur l'année. Ensuite, un décret publié ce matin au Journal officiel pour sanctionner les branches professionnelles dont les grilles de salaires restent en dessous du salaire minimum. Et enfin, Airbus annonce une usine géante près de Toulouse, avec neuf cents millions d'euros d'investissement et jusqu'à trois mille cinq cents emplois à la clé.</description>
