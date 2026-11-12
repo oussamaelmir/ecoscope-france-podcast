@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 13:04:47 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:08:20 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 12/11/2026 : Crise du logement neuf, liquidation de Fibre Excellence et plan de relance agricole</title>
+      <description>Au programme ce soir : les promoteurs immobiliers publient des chiffres très bas pour le troisième trimestre, avec des réservations en fort recul. À Toulouse, la liquidation judiciaire de l'ancien numéro un de la pâte à papier est définitivement prononcée, avec trois cents emplois supprimés. Et la ministre de l'Agriculture annonce un plan de relance à sept cent vingt-cinq millions d'euros, au-dessus de la fourchette initialement prévue.</description>
+      <itunes:summary>Au programme ce soir : les promoteurs immobiliers publient des chiffres très bas pour le troisième trimestre, avec des réservations en fort recul. À Toulouse, la liquidation judiciaire de l'ancien numéro un de la pâte à papier est définitivement prononcée, avec trois cents emplois supprimés. Et la ministre de l'Agriculture annonce un plan de relance à sept cent vingt-cinq millions d'euros, au-dessus de la fourchette initialement prévue.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-12.mp3" length="5182282" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>323</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 11/11/2026 : Carburant, immobilier et rénovation énergétique</title>
       <description>Au programme ce matin : les prix à la pompe restent sous tension, avec des ruptures ponctuelles de carburant dans le nord-est et un gouvernement prêt à puiser de nouveau dans les stocks stratégiques. Côté immobilier, la remontée des taux d'intérêt continue de freiner les transactions et pèse sur les ménages emprunteurs. Et enfin, une étude révèle que les aides publiques ne couvrent que trente-huit pour cent du coût des travaux de rénovation énergétique en copropriété.</description>
