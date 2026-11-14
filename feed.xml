@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 14:08:20 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:43:43 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 14/11/2026 : Pouvoir d'achat alimentaire, carburants en baisse et BHV en redressement judiciaire</title>
+      <description>Au programme ce matin : sept Français sur dix ont modifié leurs habitudes alimentaires à cause de la baisse du pouvoir d'achat, selon un baromètre publié aujourd'hui. Du côté des carburants, le sans-plomb repasse sous la barre des deux euros le litre à la pompe. Et enfin, le BHV, grand magasin emblématique de Paris, reste fermé ce week-end dans le cadre d'une procédure de redressement judiciaire.</description>
+      <itunes:summary>Au programme ce matin : sept Français sur dix ont modifié leurs habitudes alimentaires à cause de la baisse du pouvoir d'achat, selon un baromètre publié aujourd'hui. Du côté des carburants, le sans-plomb repasse sous la barre des deux euros le litre à la pompe. Et enfin, le BHV, grand magasin emblématique de Paris, reste fermé ce week-end dans le cadre d'une procédure de redressement judiciaire.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-14.mp3" length="5022205" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>313</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 12/11/2026 : Crise du logement neuf, liquidation de Fibre Excellence et plan de relance agricole</title>
       <description>Au programme ce soir : les promoteurs immobiliers publient des chiffres très bas pour le troisième trimestre, avec des réservations en fort recul. À Toulouse, la liquidation judiciaire de l'ancien numéro un de la pâte à papier est définitivement prononcée, avec trois cents emplois supprimés. Et la ministre de l'Agriculture annonce un plan de relance à sept cent vingt-cinq millions d'euros, au-dessus de la fourchette initialement prévue.</description>
