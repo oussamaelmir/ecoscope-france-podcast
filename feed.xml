@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Nov 2026 12:43:43 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:11:59 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 15/11/2026 : Hausse du Smic, fuite de données chez La Poste et déclin économique de la France en Europe</title>
+      <description>Au programme de cet épisode : le gouvernement chiffre à plus d'un milliard d'euros le coût de la revalorisation du Smic et des bas salaires dans la fonction publique. Ensuite, une cyberattaque contre Maileva, une filiale de La Poste, expose les données personnelles de vingt-deux millions de personnes. Et enfin, un point sur le recul économique relatif de la France au sein de l'Union européenne, avec un produit intérieur brut par habitant désormais passé sous la moyenne européenne.</description>
+      <itunes:summary>Au programme de cet épisode : le gouvernement chiffre à plus d'un milliard d'euros le coût de la revalorisation du Smic et des bas salaires dans la fonction publique. Ensuite, une cyberattaque contre Maileva, une filiale de La Poste, expose les données personnelles de vingt-deux millions de personnes. Et enfin, un point sur le recul économique relatif de la France au sein de l'Union européenne, avec un produit intérieur brut par habitant désormais passé sous la moyenne européenne.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-15.mp3" length="5593155" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>349</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 14/11/2026 : Pouvoir d'achat alimentaire, carburants en baisse et BHV en redressement judiciaire</title>
       <description>Au programme ce matin : sept Français sur dix ont modifié leurs habitudes alimentaires à cause de la baisse du pouvoir d'achat, selon un baromètre publié aujourd'hui. Du côté des carburants, le sans-plomb repasse sous la barre des deux euros le litre à la pompe. Et enfin, le BHV, grand magasin emblématique de Paris, reste fermé ce week-end dans le cadre d'une procédure de redressement judiciaire.</description>
