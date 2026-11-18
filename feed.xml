@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 14:46:54 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:21:45 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 18/11/2026 : BHV en fermeture prolongée, retraites et Medef, chèque énergie avancé</title>
+      <description>Au programme ce matin : le BHV Marais prolonge sa fermeture pour des travaux de mise en conformité, et ses salariés attendent toujours des nouvelles. Le président du Medef exprime ses doutes sur le financement du projet de réforme des retraites porté par Marine Le Pen. Et le chèque énergie ouvrira ses portes dès le 14 janvier, plusieurs semaines plus tôt que d'habitude.</description>
+      <itunes:summary>Au programme ce matin : le BHV Marais prolonge sa fermeture pour des travaux de mise en conformité, et ses salariés attendent toujours des nouvelles. Le président du Medef exprime ses doutes sur le financement du projet de réforme des retraites porté par Marine Le Pen. Et le chèque énergie ouvrira ses portes dès le 14 janvier, plusieurs semaines plus tôt que d'habitude.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-18.mp3" length="5010478" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>313</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 17/11/2026 : Prévisions dégradées pour la France, retraites selon le RN, salaires des patrons du CAC 40</title>
       <description>Au programme ce matin : Bruxelles abaisse ses prévisions de croissance pour la France et demande à Paris de redresser ses finances. Le Rassemblement national présente son projet de réforme des retraites avant la présidentielle de 2027. Et selon le cabinet Proxinvest, les rémunérations des dirigeants du CAC 40 ont bondi de seize pour cent en 2025.</description>
