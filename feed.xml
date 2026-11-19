@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 14:21:45 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:46:42 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 19/11/2026 : Déficit public à 5,4 pour cent, coût des violences d'octobre et négociations commerciales 2027</title>
+      <description>Au programme ce matin : le Sénat a adopté cette nuit le budget de fin de gestion, qui acte un déficit public à 5,4 pour cent du produit intérieur brut pour l'année 2026. Ensuite, France Assureurs chiffre à 207 millions d'euros les dommages des violences du 17 octobre, un montant très inférieur aux premières estimations. Et enfin, le ministre du Commerce Serge Papin a appelé ce matin à rééquilibrer les négociations tarifaires annuelles en faveur des agriculteurs et des petites entreprises.</description>
+      <itunes:summary>Au programme ce matin : le Sénat a adopté cette nuit le budget de fin de gestion, qui acte un déficit public à 5,4 pour cent du produit intérieur brut pour l'année 2026. Ensuite, France Assureurs chiffre à 207 millions d'euros les dommages des violences du 17 octobre, un montant très inférieur aux premières estimations. Et enfin, le ministre du Commerce Serge Papin a appelé ce matin à rééquilibrer les négociations tarifaires annuelles en faveur des agriculteurs et des petites entreprises.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-19.mp3" length="5413853" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>338</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 18/11/2026 : BHV en fermeture prolongée, retraites et Medef, chèque énergie avancé</title>
       <description>Au programme ce matin : le BHV Marais prolonge sa fermeture pour des travaux de mise en conformité, et ses salariés attendent toujours des nouvelles. Le président du Medef exprime ses doutes sur le financement du projet de réforme des retraites porté par Marine Le Pen. Et le chèque énergie ouvrira ses portes dès le 14 janvier, plusieurs semaines plus tôt que d'habitude.</description>
