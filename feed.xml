@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 14:46:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:29:58 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 20/11/2026 : Grève du 1er décembre, accord UE-Royaume-Uni et nouvelle directive sur le crédit</title>
+      <description>Au programme aujourd'hui : huit syndicats appellent à une nouvelle journée de grève le 1er décembre, dans la fonction publique et au-delà. L'Union européenne et le Royaume-Uni ont conclu un accord lors d'un sommet à Bruxelles, dix ans après le Brexit. Et enfin, une directive européenne entre en vigueur aujourd'hui même, avec des changements concrets pour les découverts bancaires, les agios et les paiements fractionnés.</description>
+      <itunes:summary>Au programme aujourd'hui : huit syndicats appellent à une nouvelle journée de grève le 1er décembre, dans la fonction publique et au-delà. L'Union européenne et le Royaume-Uni ont conclu un accord lors d'un sommet à Bruxelles, dix ans après le Brexit. Et enfin, une directive européenne entre en vigueur aujourd'hui même, avec des changements concrets pour les découverts bancaires, les agios et les paiements fractionnés.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-20.mp3" length="5428877" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 19/11/2026 : Déficit public à 5,4 pour cent, coût des violences d'octobre et négociations commerciales 2027</title>
       <description>Au programme ce matin : le Sénat a adopté cette nuit le budget de fin de gestion, qui acte un déficit public à 5,4 pour cent du produit intérieur brut pour l'année 2026. Ensuite, France Assureurs chiffre à 207 millions d'euros les dommages des violences du 17 octobre, un montant très inférieur aux premières estimations. Et enfin, le ministre du Commerce Serge Papin a appelé ce matin à rééquilibrer les négociations tarifaires annuelles en faveur des agriculteurs et des petites entreprises.</description>
