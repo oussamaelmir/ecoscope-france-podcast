@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 14:29:58 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:56:50 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 21/11/2026 : Budget européen rejeté par Paris, accord sur le budget de fin de gestion, emploi des cadres en recul</title>
+      <description>Au programme ce matin : la France rejette la nouvelle proposition de budget européen pour la période 2028-2034, jugée insuffisante pour les agriculteurs. Côté national, députés et sénateurs ont trouvé un accord sur le budget de fin de gestion 2026, avec une adoption définitive possible dès mardi. Et enfin, l'emploi des cadres atteint un niveau très bas en cette fin d'année, selon l'Association pour l'emploi des cadres.</description>
+      <itunes:summary>Au programme ce matin : la France rejette la nouvelle proposition de budget européen pour la période 2028-2034, jugée insuffisante pour les agriculteurs. Côté national, députés et sénateurs ont trouvé un accord sur le budget de fin de gestion 2026, avec une adoption définitive possible dès mardi. Et enfin, l'emploi des cadres atteint un niveau très bas en cette fin d'année, selon l'Association pour l'emploi des cadres.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-21.mp3" length="5286807" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>330</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 20/11/2026 : Grève du 1er décembre, accord UE-Royaume-Uni et nouvelle directive sur le crédit</title>
       <description>Au programme aujourd'hui : huit syndicats appellent à une nouvelle journée de grève le 1er décembre, dans la fonction publique et au-delà. L'Union européenne et le Royaume-Uni ont conclu un accord lors d'un sommet à Bruxelles, dix ans après le Brexit. Et enfin, une directive européenne entre en vigueur aujourd'hui même, avec des changements concrets pour les découverts bancaires, les agios et les paiements fractionnés.</description>
