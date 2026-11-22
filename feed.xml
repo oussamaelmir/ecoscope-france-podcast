@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 13:56:50 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:49:27 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 22/11/2026 : Règle d'or budgétaire, smicardisation et turbulences boursières</title>
+      <description>Au programme ce matin : Emmanuel Macron envisagerait de convoquer le Congrès pour inscrire une règle d'or budgétaire dans la Constitution. Sur le marché du travail, les offres d'emploi rémunérées au salaire minimum atteignent un niveau jamais vu, pendant que les métiers exposés à l'intelligence artificielle voient leurs annonces se réduire. Et du côté des marchés financiers, le secteur technologique américain a traversé sa pire semaine depuis la crise du Covid, avec des conséquences potentielles pour les épargnants français.</description>
+      <itunes:summary>Au programme ce matin : Emmanuel Macron envisagerait de convoquer le Congrès pour inscrire une règle d'or budgétaire dans la Constitution. Sur le marché du travail, les offres d'emploi rémunérées au salaire minimum atteignent un niveau jamais vu, pendant que les métiers exposés à l'intelligence artificielle voient leurs annonces se réduire. Et du côté des marchés financiers, le secteur technologique américain a traversé sa pire semaine depuis la crise du Covid, avec des conséquences potentielles pour les épargnants français.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-22.mp3" length="5679201" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>354</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 21/11/2026 : Budget européen rejeté par Paris, accord sur le budget de fin de gestion, emploi des cadres en recul</title>
       <description>Au programme ce matin : la France rejette la nouvelle proposition de budget européen pour la période 2028-2034, jugée insuffisante pour les agriculteurs. Côté national, députés et sénateurs ont trouvé un accord sur le budget de fin de gestion 2026, avec une adoption définitive possible dès mardi. Et enfin, l'emploi des cadres atteint un niveau très bas en cette fin d'année, selon l'Association pour l'emploi des cadres.</description>
