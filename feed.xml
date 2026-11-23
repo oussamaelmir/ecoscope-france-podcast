@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 13:49:27 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:13:00 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 23/11/2026 : Règle d'or budgétaire, Choose France et ligne 18 du Grand Paris Express</title>
+      <description>Au programme ce matin : Emmanuel Macron confirme son projet d'inscrire une règle d'or budgétaire dans la Constitution, avec des voies juridiques désormais précisées. Depuis Toulouse, le sommet Choose France met en lumière trois cent cinquante millions d'euros pour l'aéronautique et de nouvelles zones industrielles simplifiées. Et côté transports, la mise en service de la ligne 18 du Grand Paris Express en décembre est jugée très compromise, en raison de problèmes de logiciel chez le fabricant Alstom.</description>
+      <itunes:summary>Au programme ce matin : Emmanuel Macron confirme son projet d'inscrire une règle d'or budgétaire dans la Constitution, avec des voies juridiques désormais précisées. Depuis Toulouse, le sommet Choose France met en lumière trois cent cinquante millions d'euros pour l'aéronautique et de nouvelles zones industrielles simplifiées. Et côté transports, la mise en service de la ligne 18 du Grand Paris Express en décembre est jugée très compromise, en raison de problèmes de logiciel chez le fabricant Alstom.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-23.mp3" length="5226143" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>326</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 22/11/2026 : Règle d'or budgétaire, smicardisation et turbulences boursières</title>
       <description>Au programme ce matin : Emmanuel Macron envisagerait de convoquer le Congrès pour inscrire une règle d'or budgétaire dans la Constitution. Sur le marché du travail, les offres d'emploi rémunérées au salaire minimum atteignent un niveau jamais vu, pendant que les métiers exposés à l'intelligence artificielle voient leurs annonces se réduire. Et du côté des marchés financiers, le secteur technologique américain a traversé sa pire semaine depuis la crise du Covid, avec des conséquences potentielles pour les épargnants français.</description>
