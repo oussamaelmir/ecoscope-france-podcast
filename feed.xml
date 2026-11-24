@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 16:13:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:11:10 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 24/11/2026 : BYD à Hambach, Sanofi rachète Insmed, tensions budgétaires au congrès des maires</title>
+      <description>Au programme de cet épisode : le constructeur chinois BYD entre en négociations exclusives pour racheter l'usine d'Hambach, en Moselle. Sanofi annonce son acquisition la plus importante depuis plus de vingt ans, avec le rachat de l'américain Insmed. Et le congrès des maires s'ouvre dans un climat tendu, sur fond de coupes budgétaires et de risque de hausse des taxes locales.</description>
+      <itunes:summary>Au programme de cet épisode : le constructeur chinois BYD entre en négociations exclusives pour racheter l'usine d'Hambach, en Moselle. Sanofi annonce son acquisition la plus importante depuis plus de vingt ans, avec le rachat de l'américain Insmed. Et le congrès des maires s'ouvre dans un climat tendu, sur fond de coupes budgétaires et de risque de hausse des taxes locales.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-24.mp3" length="5581009" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>348</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 23/11/2026 : Règle d'or budgétaire, Choose France et ligne 18 du Grand Paris Express</title>
       <description>Au programme ce matin : Emmanuel Macron confirme son projet d'inscrire une règle d'or budgétaire dans la Constitution, avec des voies juridiques désormais précisées. Depuis Toulouse, le sommet Choose France met en lumière trois cent cinquante millions d'euros pour l'aéronautique et de nouvelles zones industrielles simplifiées. Et côté transports, la mise en service de la ligne 18 du Grand Paris Express en décembre est jugée très compromise, en raison de problèmes de logiciel chez le fabricant Alstom.</description>
