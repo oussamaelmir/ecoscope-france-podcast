@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 16:11:10 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:51:05 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 25/11/2026 : Droits de douane américains, fraude à l'apprentissage et plan social chez Rémy Cointreau</title>
+      <description>Au programme aujourd'hui : l'administration Trump annonce une nouvelle salve de droits de douane visant l'Union européenne et treize autres partenaires commerciaux, ce qui inquiète les exportateurs français. Ensuite, la Cour des comptes publie un rapport alarmant sur les fraudes aux aides à l'apprentissage, qui représenteraient jusqu'à trois milliards d'euros par an. Et enfin, le groupe de spiritueux Rémy Cointreau annonce une réduction de ses effectifs pouvant aller jusqu'à quinze pour cent au niveau mondial.</description>
+      <itunes:summary>Au programme aujourd'hui : l'administration Trump annonce une nouvelle salve de droits de douane visant l'Union européenne et treize autres partenaires commerciaux, ce qui inquiète les exportateurs français. Ensuite, la Cour des comptes publie un rapport alarmant sur les fraudes aux aides à l'apprentissage, qui représenteraient jusqu'à trois milliards d'euros par an. Et enfin, le groupe de spiritueux Rémy Cointreau annonce une réduction de ses effectifs pouvant aller jusqu'à quinze pour cent au niveau mondial.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-25.mp3" length="4880531" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>304</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 24/11/2026 : BYD à Hambach, Sanofi rachète Insmed, tensions budgétaires au congrès des maires</title>
       <description>Au programme de cet épisode : le constructeur chinois BYD entre en négociations exclusives pour racheter l'usine d'Hambach, en Moselle. Sanofi annonce son acquisition la plus importante depuis plus de vingt ans, avec le rachat de l'américain Insmed. Et le congrès des maires s'ouvre dans un climat tendu, sur fond de coupes budgétaires et de risque de hausse des taxes locales.</description>
