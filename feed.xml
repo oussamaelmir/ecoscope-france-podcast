@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 15:51:05 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:15:25 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 26/11/2026 : Airbags Takata, budget de la Sécu et succession à la BCE</title>
+      <description>Au programme ce matin : la justice française perquisitionne le siège de Stellantis dans l'affaire des airbags Takata défaillants. Côté finances publiques, les députés et les sénateurs n'ont pas réussi à s'entendre sur le budget de la Sécurité sociale pour 2027. Et enfin, la succession de Christine Lagarde à la tête de la Banque centrale européenne se précise, avec un accord franco-allemand qui se dessine.</description>
+      <itunes:summary>Au programme ce matin : la justice française perquisitionne le siège de Stellantis dans l'affaire des airbags Takata défaillants. Côté finances publiques, les députés et les sénateurs n'ont pas réussi à s'entendre sur le budget de la Sécurité sociale pour 2027. Et enfin, la succession de Christine Lagarde à la tête de la Banque centrale européenne se précise, avec un accord franco-allemand qui se dessine.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-26.mp3" length="5339798" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>333</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 25/11/2026 : Droits de douane américains, fraude à l'apprentissage et plan social chez Rémy Cointreau</title>
       <description>Au programme aujourd'hui : l'administration Trump annonce une nouvelle salve de droits de douane visant l'Union européenne et treize autres partenaires commerciaux, ce qui inquiète les exportateurs français. Ensuite, la Cour des comptes publie un rapport alarmant sur les fraudes aux aides à l'apprentissage, qui représenteraient jusqu'à trois milliards d'euros par an. Et enfin, le groupe de spiritueux Rémy Cointreau annonce une réduction de ses effectifs pouvant aller jusqu'à quinze pour cent au niveau mondial.</description>
