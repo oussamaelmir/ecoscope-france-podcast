@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 15:15:25 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:12:42 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 27/11/2026 : Récession confirmée, prix alimentaires en hausse et chômage partiel chez Stellantis</title>
+      <description>Au programme de cet épisode : l'Institut national de la statistique, l'INSEE, confirme que la France est officiellement entrée en récession. Ensuite, le gouvernement anticipe une hausse de quatre pour cent des prix alimentaires dès le début de l'année prochaine. Et enfin, Stellantis annonce des arrêts de production dans ses usines de Rennes et de Mulhouse, avec des salariés placés en chômage partiel.</description>
+      <itunes:summary>Au programme de cet épisode : l'Institut national de la statistique, l'INSEE, confirme que la France est officiellement entrée en récession. Ensuite, le gouvernement anticipe une hausse de quatre pour cent des prix alimentaires dès le début de l'année prochaine. Et enfin, Stellantis annonce des arrêts de production dans ses usines de Rennes et de Mulhouse, avec des salariés placés en chômage partiel.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-27.mp3" length="5489905" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>343</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 26/11/2026 : Airbags Takata, budget de la Sécu et succession à la BCE</title>
       <description>Au programme ce matin : la justice française perquisitionne le siège de Stellantis dans l'affaire des airbags Takata défaillants. Côté finances publiques, les députés et les sénateurs n'ont pas réussi à s'entendre sur le budget de la Sécurité sociale pour 2027. Et enfin, la succession de Christine Lagarde à la tête de la Banque centrale européenne se précise, avec un accord franco-allemand qui se dessine.</description>
