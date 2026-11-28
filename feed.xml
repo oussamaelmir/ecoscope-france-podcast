@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-france-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Nov 2026 15:12:42 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:30:12 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope France — 28/11/2026 : Note S&amp;P dégradée, grève aux aéroports de Paris, assurance vie dans le budget</title>
+      <description>Au programme de cet épisode : l'agence de notation Standard and Poor's abaisse la perspective sur la dette française, et les réactions politiques ne tardent pas. Les syndicats des aéroports parisiens annoncent une grève au cœur des vacances de Noël. Et au Sénat, un amendement sur l'assurance vie pourrait alourdir la facture pour de nombreux épargnants.</description>
+      <itunes:summary>Au programme de cet épisode : l'agence de notation Standard and Poor's abaisse la perspective sur la dette française, et les réactions politiques ne tardent pas. Les syndicats des aéroports parisiens annoncent une grève au cœur des vacances de Noël. Et au Sénat, un amendement sur l'assurance vie pourrait alourdir la facture pour de nombreux épargnants.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-france-podcast/episodes/ecoscope-2026-11-28.mp3" length="5446840" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>340</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope France — 27/11/2026 : Récession confirmée, prix alimentaires en hausse et chômage partiel chez Stellantis</title>
       <description>Au programme de cet épisode : l'Institut national de la statistique, l'INSEE, confirme que la France est officiellement entrée en récession. Ensuite, le gouvernement anticipe une hausse de quatre pour cent des prix alimentaires dès le début de l'année prochaine. Et enfin, Stellantis annonce des arrêts de production dans ses usines de Rennes et de Mulhouse, avec des salariés placés en chômage partiel.</description>
